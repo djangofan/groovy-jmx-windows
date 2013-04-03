@@ -1,0 +1,31 @@
+Groovy Version: 2.1.2 JVM: 1.6.0_38 Vendor: Sun Microsystems Inc. OS: Windows 7
+
+
+Boot Classpath for Java pid (7160):
+C:/JBoss5.1/jboss-eap-5.1/jboss-as/lib/endorsed\activation.jar;C:/JBoss.....
+
+
+Classpath for Java pid (7160):
+/C:/JBoss5.1/jboss-eap-5.1/jboss-as/bin/wrapper/./wrapperApp.jar;C:\JBoss5.1\jboss-eap-5.1\jboss-as\bin\run.jar
+
+
+Input Arguments for Java pid (7160):
+[-Dprogram.name=run.bat, -Xms512M, -Xmx1302M, -XX:MaxPermSize=256M, -Dsun.rmi.dgc.client.gcInterval=3600000, ....
+
+
+Java process pid (7160) was started at Wed Apr 03 10:53:22 PDT 2013 and has been up for 1296169 ms.
+
+
+Library Path for Java pid (7160):
+C:\AeroFS\Java32\jdk1.6.0_38\bin;C:\Windows\Sun\Java\bi.....
+
+
+System Properties for Java pid (7160):
+[[jboss.jgroups.diagnostics_addr]:javax.management.openmbean.CompositeDataSupport(compositeType=javax.management.openmbean.CompositeType(name=java.util.Map
+<java.lang.String, java.lang.String>,items=((itemName=key,itemType=javax.management.openmbean.SimpleType(name=java.lang.String)),(itemName=value,itemType=j
+avax.management.openmbean.SimpleType(name=java.lang.String)))),contents={key=jboss.jgroups.diagnostics_addr, value=224.0.75.75}), [jboss.jgroups.udp_sync.m
+....
+
+Script ended.
+
+Waiting for 0 seconds, press a key to continue ...
