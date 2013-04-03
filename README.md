@@ -2,8 +2,15 @@ groovy-jmx-windows
 ==================
 Groovy scripts to check JMX info on Windows.
 
+URL of this project
+==================
 [http://djangofan.github.com/groovy-jmx-windows/](http://djangofan.github.com/groovy-jmx-windows/)
 
+How to run this project
+==================
+
+    1. Download the .zip distro of this project.
+    2. Run the runALL.bat and follow the instructions.
 
 JMX Configuration on Java
 ==================
