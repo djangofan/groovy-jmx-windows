@@ -11,6 +11,13 @@
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 SET "JAVA_HOME=C:\AeroFS\Java32\jdk1.6.0_38"
+IF NOT EXIST "%JAVA_HOME%\bin\java.exe" (
+  ECHO Did not find the JAVA_HOME that you configured in this script.
+  ECHO Please edit the JAVA_HOME var in this script and run the 
+  ECHO script again.
+  ECHO.
+  GOTO :ERROR
+)
 SET ARG=
 
 IF "%~1"=="" (
