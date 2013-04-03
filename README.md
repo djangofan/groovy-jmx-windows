@@ -2,7 +2,7 @@ groovy-jmx-windows
 ==================
 Groovy scripts to check JMX info on Windows.
 
-[http://djangofan.github.com/groovy-jmx-windows/]
+[http://djangofan.github.com/groovy-jmx-windows/](http://djangofan.github.com/groovy-jmx-windows/)
 
 
 JMX Configuration on Java
