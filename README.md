@@ -28,3 +28,7 @@ And using IBM JRockit, you may need options like these:
     -Dcom.sun.management.jmxremote.local.only=false
     -Dcom.sun.management.enableThreadContentionMonitoring
     -Dcom.sun.management.jmxremote.ssl=false
+
+NOTES
+==================
+More information here: [http://groovy.codehaus.org/Groovy+JmxBuilder](http://groovy.codehaus.org/Groovy+JmxBuilder)
