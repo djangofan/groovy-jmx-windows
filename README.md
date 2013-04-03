@@ -14,7 +14,8 @@ How to run this project
 
 JMX Configuration on Java
 ==================
-To enable JMX on a Oracle Java JVM, pass it these parameters:
+To enable JMX on a Oracle Java JVM, pass it these parameters.  The default JMX(RMI) port is 1099 but
+I use 9999 here so it doesn't conflict with another JVM RMI port on my system.
 
     -Dcom.sun.management.jmxremote.port=9999
     -Dcom.sun.management.jmxremote.authenticate=false
